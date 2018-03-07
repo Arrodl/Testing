@@ -1,0 +1,95 @@
+	.head{
+    	background-color: #428bca;
+    	color: white;
+    	text-align: center;
+		padding-top:30px;
+		padding-bottom:30px;
+    }
+    .marginLR{
+    	margin-right: 0px;
+    	margin-left: 0px
+    }
+    .paddingLR{
+    	padding-left: 0px;
+    	padding-right: 0px;
+    }
+	.foot{
+		padding-bottom:20px;
+		background-color: #428bca;
+    	color: white;
+		text-align: center;
+		padding-top:20px;
+	}
+
+    .gbBlue{
+        background-color: #003DF5;       
+    }
+
+    .aboutText{
+    font-size: 20px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #000000;
+    text-align: center;
+}
+
+.textBlackSm{
+    color: rgb(255, 255, 255);
+    font-size: 18px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #000000;
+    text-align: center;
+}
+.textBlackMd{
+    color: rgb(255, 255, 255);
+    font-size: 20px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #000000;
+    text-align: center;
+}
+.textBlackLg{
+    color: rgb(255, 255, 255);
+    font-size: 22px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #000000;
+    text-align: center;
+}
+.textBlackXl{
+    color: rgb(255, 255, 255);
+    font-size: 24px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #000000;
+    text-align: center;
+}
+
+.textWhiteXs{
+    font-size: 16px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.textWhiteSm{
+    font-size: 18px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.textWhiteMd{
+    font-size: 20px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #FFFFFF;
+    text-align: center;
+}
+.textWhiteLg{
+    font-size: 22px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #FFFFFF;
+    text-align: center;
+}
+.textWhiteXl{
+    font-size: 24px;    
+    font-family: Myriad Pro, Lucida Sans, Segoe UI, Calibri, sans serif;
+    color: #FFFFFF;
+    text-align: center;
+}
